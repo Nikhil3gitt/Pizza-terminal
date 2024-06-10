@@ -4,15 +4,17 @@ The Pizza terminal database project explores and applies fundamental concepts of
 
 ## Purpose
 
-This project aims to gain practical experience in database design, implementation, and management. Key objectives include understanding entity-relationship modeling, practicing SQL queries, exploring indexing, transactions, and optimizing database performance.
+The primary purpose of this project is twofold: to master SQL practices and to translate theoretical knowledge into practical solutions for real-world challenges. By creating a comprehensive database for a pizza terminal, the project aims to provide hands-on experience in database design, query optimization, and data management. Participants will delve into crucial topics such as normalization, key constraints, indexing, and transactions in DBMS. In SQL, focus will be on mastering various clauses like JOIN, GROUP BY, and ORDER BY, as well as understanding subqueries, views, and query optimization techniques. 
 
 ### Important Lessons Learned:
 
-1. **Managing Many-to-Many Relationships**: Handling complex relationships efficiently.
-2. **SQL vs. NoSQL**: Recognizing SQL limitations and when NoSQL is relevant.
-3. **Query Execution Sequence**: Understanding the sequence of SQL queries.
-4. **Joint Selection**: Selecting appropriate JOIN operations for efficient data retrieval.
-5. **Data Generation and Importing**: Generating and importing realistic data.
+During the development of the Pizza_terminal database project, several key lessons were learned:
+1.	Managing Many-to-Many Relationships: Understanding how to manage many-to-many relationships between tables, such as the relationship between pizzas and ingredients.
+2.	SQL vs. NoSQL: Recognizing the limitations of SQL and when NoSQL databases become relevant, especially for semi-structured data where flexibility in schema design is required.
+3. 	Query Execution Sequence: Learning the sequence of executing SQL queries and the importance of clauses like SELECT, FROM, WHERE, GROUP BY, HAVING, and ORDER BY.
+4. 	Joint Selection: Gaining insights into selecting the appropriate type of JOIN operation to retrieve data efficiently, balancing between performance and accuracy.
+5.	Data Generation and Importing: Understanding the importance of careful data generation and importing into tables, ensuring data consistency, integrity, and performance. while taking care of normalization in relations. 
+
 
 ## Key Usage of the Database
 
