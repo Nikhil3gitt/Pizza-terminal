@@ -1,7 +1,9 @@
 # Pizza-terminal
 
 The Pizza terminal database project explores and applies fundamental concepts of database management systems (DBMS) and SQL.
-![Project Schema](./)
+
+
+![Project Schema](./Database ER diagram (Pizza Terminal).png)  
 ## Purpose
 
 The primary purpose of this project is twofold: to master SQL practices and to translate theoretical knowledge into practical solutions for real-world challenges. By creating a comprehensive database for a pizza terminal, the project aims to provide hands-on experience in database design, query optimization, and data management. Participants will delve into crucial topics such as normalization, key constraints, indexing, and transactions in DBMS. In SQL, focus will be on mastering various clauses like JOIN, GROUP BY, and ORDER BY, as well as understanding subqueries, views, and query optimization techniques. 
