@@ -5,7 +5,7 @@
 The Pizza terminal database is a project to explore and apply fundamental concepts of database management systems (DBMS). It simulates a simplified system for managing a pizza restaurant, encompassing various aspects such as customer orders, ingredients inventory, delivery tracking, and employee management.
 ## Project Schema
 
-![Project Schema](./ER diagram.png)
+![Project Schema](./ER-diagram.png)
 
 
 ## Purpose
